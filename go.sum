@@ -1,0 +1,4 @@
+github.com/Danilka776/web_go_calc v0.0.0-20241229163809-726a121130a2 h1:YoxHpRkxEVBokoTPxPqX/BozwveG4wcoJsbA+tKN2jQ=
+github.com/Danilka776/web_go_calc v0.0.0-20241229163809-726a121130a2/go.mod h1:i71qsOCi64TWpaAFIXN52+TLfDmecmFhFxvsrtoqIVE=
+github.com/gorilla/mux v1.8.1 h1:TuBL49tXwgrFYWhqrNgrUNEY92u81SPhu7sTdzQEiWY=
+github.com/gorilla/mux v1.8.1/go.mod h1:AKf9I4AEqPTmMytcMc0KkNouC66V3BtZ4qD5fmWSiMQ=
