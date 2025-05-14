@@ -3,7 +3,7 @@ package tests
 import (
 	"testing"
 
-	"github.com/Danilka776/web_go_calc_2/internal/models"
+	"github.com/Danilka776/web_go_calc_with_db/internal/models"
 )
 
 func TestTask(t *testing.T) {

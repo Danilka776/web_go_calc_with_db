@@ -10,7 +10,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/Danilka776/web_go_calc_2/internal/models"
+	"github.com/Danilka776/web_go_calc_with_db/internal/models"
 )
 
 func EvaluateTask(task models.Task) float64 {
