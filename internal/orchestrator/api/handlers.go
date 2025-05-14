@@ -6,9 +6,9 @@ import (
 	"net/http"
 	"strconv"
 
-	"github.com/Danilka776/web_go_calc/calculate"
-	"github.com/Danilka776/web_go_calc_2/internal/models"
-	"github.com/Danilka776/web_go_calc_2/internal/orchestrator/services"
+	calc "github.com/Danilka776/web_go_calc/calculate"
+	"github.com/Danilka776/web_go_calc_with_db/internal/models"
+	"github.com/Danilka776/web_go_calc_with_db/internal/orchestrator/services"
 )
 
 func ServeCalculatorForm(w http.ResponseWriter, r *http.Request) {

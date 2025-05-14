@@ -5,8 +5,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/Danilka776/web_go_calc_2/internal/models"
-	"github.com/Danilka776/web_go_calc_2/pkg/calculator"
+	"github.com/Danilka776/web_go_calc_with_db/internal/models"
+	"github.com/Danilka776/web_go_calc_with_db/pkg/calculator"
 )
 
 var (

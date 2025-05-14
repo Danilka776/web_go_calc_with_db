@@ -7,7 +7,7 @@ import (
 	"net/http/httptest"
 	"testing"
 
-	"github.com/Danilka776/web_go_calc_2/internal/orchestrator/api"
+	"github.com/Danilka776/web_go_calc_with_db/internal/orchestrator/api"
 )
 
 func TestAPIHandlers(t *testing.T) {

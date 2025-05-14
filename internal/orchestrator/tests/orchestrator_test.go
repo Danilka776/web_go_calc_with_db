@@ -3,7 +3,7 @@ package tests
 import (
 	"testing"
 
-	"github.com/Danilka776/web_go_calc_2/internal/orchestrator/services"
+	"github.com/Danilka776/web_go_calc_with_db/internal/orchestrator/services"
 )
 
 func TestOrchestratorFlow(t *testing.T) {

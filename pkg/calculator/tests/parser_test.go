@@ -3,7 +3,7 @@ package tests
 import (
 	"testing"
 
-	"github.com/Danilka776/web_go_calc_2/pkg/calculator"
+	"github.com/Danilka776/web_go_calc_with_db/pkg/calculator"
 )
 
 func TestParseExpressionPriority(t *testing.T) {

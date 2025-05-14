@@ -5,7 +5,7 @@ import (
 	"os"
 	"strconv"
 
-	"github.com/Danilka776/web_go_calc_2/internal/agent"
+	"github.com/Danilka776/web_go_calc_with_db/internal/agent"
 )
 
 func main() {

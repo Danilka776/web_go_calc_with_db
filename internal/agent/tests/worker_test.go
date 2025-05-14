@@ -3,8 +3,8 @@ package tests
 import (
 	"testing"
 
-	"github.com/Danilka776/web_go_calc_2/internal/agent"
-	"github.com/Danilka776/web_go_calc_2/internal/models"
+	"github.com/Danilka776/web_go_calc_with_db/internal/agent"
+	"github.com/Danilka776/web_go_calc_with_db/internal/models"
 )
 
 func TestEvaluateTask(t *testing.T) {
